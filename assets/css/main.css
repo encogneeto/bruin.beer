@@ -1,0 +1,78 @@
+/* Cinzel Decorative */
+@font-face {
+    font-family: "Cinzel Decorative";
+    src: url("/fonts/CinzelDecorative-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Cinzel Decorative";
+    src: url("/fonts/CinzelDecorative-Black.ttf") format("truetype");
+    font-weight: 900;
+    font-style: normal;
+}
+
+/* Diplomata SC */
+@font-face {
+    font-family: "Diplomata SC";
+    src: url("/fonts/DiplomataSC-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Ewert */
+@font-face {
+    font-family: "Ewert";
+    src: url("/fonts/Ewert-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* IM Fell DW Pica SC */
+@font-face {
+    font-family: "IM Fell DW Pica SC";
+    src: url("/fonts/IMFellDWPicaSC-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Jim Nightshade */
+@font-face {
+    font-family: "Jim Nightshade";
+    src: url("/fonts/JimNightshade-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Pirata One */
+@font-face {
+    font-family: "Pirata One";
+    src: url("/fonts/PirataOne-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Smokum */
+@font-face {
+    font-family: "Smokum";
+    src: url("/fonts/Smokum-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Tagesschrift */
+@font-face {
+    font-family: "Tagesschrift";
+    src: url("/fonts/Tagesschrift-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Uncial Antiqua */
+@font-face {
+    font-family: "Uncial Antiqua";
+    src: url("/fonts/UncialAntiqua-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
