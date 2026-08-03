@@ -9,7 +9,8 @@ It was cheap.\
 Here we are.
 
 I live in New Bern "Bear Town", North Carolina. I'd been contemplating restarting home 
-brewing; a hobby I'd abandoned on the doctors orders nearly a decade ago. 
+brewing; a hobby I'd abandoned on the doctors orders nearly a decade ago but have recently
+been cleared to start again. 
 
 Anyway - thats how I landed on **bruin.beer**. My concepts of a plan are to post regular,
 low stakes updates on what I'm up to for anyone that's interested. 
