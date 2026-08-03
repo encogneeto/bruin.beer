@@ -1,5 +1,0 @@
-baseURL = 'https://bruin.beer/'
-locale = 'en-us'
-title = 'Bruin Beer'
-
-disableKinds = ['taxonomy', 'term', 'RSS', 'sitemap']
