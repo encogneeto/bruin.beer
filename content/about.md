@@ -18,7 +18,7 @@ I'm a geek by profession. Somewhere around 20 years ago I forwent most geeky ind
 after hours. This project has been a (mostly) fun way of dipping my toes into being geeky
 in my free time. 
 
-Current areas of interest:\
+Current areas of interest:
 * Gardening
 * Foraging
 * Hiking
@@ -30,7 +30,7 @@ Several of these areas are waining due to proximity of good opportunities (hikin
 or incompetence (fishing) which is largely to blame(thank?) for the rekindled interest in 
 home brewing.
 
-You can find me:\
+You can find me:
 * mostly lurking on <a rel="me" href="https://mastodon.world/@ccunning">Mastodon</a>
 * posting pretty regularly on [lemmy.world](https://lemmy.world/u/ccunning)
 * ...and basically not using  [pixelfed.social](https://pixelfed.social/@ccunning) almost ever
