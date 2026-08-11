@@ -1,6 +1,6 @@
 +++
 date = '2026-08-02T14:23:13-04:00'
-draft = true
+draft = false
 title = 'Frist Pots'
 +++
 
