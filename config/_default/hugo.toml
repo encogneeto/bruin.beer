@@ -7,7 +7,7 @@ locale = 'en-us'
 title = 'Bruin Beer'
 theme = "blowfish"
 
-disableKinds = ['taxonomy', 'term', 'RSS', 'sitemap']
+disableKinds = ['RSS', 'sitemap']
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
@@ -33,6 +33,7 @@ enableEmoji = true
   category = "categories"
   author = "authors"
   series = "series"
+  variety = "variety"
 
 [sitemap]
   changefreq = 'daily'
@@ -71,3 +72,9 @@ enableEmoji = true
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+
+[permalinks.page]
+posts = "/cables/:slug/"
+
+[permalinks.term]
+variety = "/cables/:slug/"

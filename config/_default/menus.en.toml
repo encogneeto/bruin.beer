@@ -16,7 +16,7 @@ pageRef = "/"
 weight = 10
 
 [[main]]
-name = "Dispatches"
+name = "Signal & Noise"
 pageRef = "posts"
 weight = 20
 

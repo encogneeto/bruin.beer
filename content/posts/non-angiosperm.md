@@ -2,6 +2,7 @@
 date = '2026-08-12T06:56:22-04:00'
 draft = false
 title = 'Non-angiosperm Foods?'
+variety = ["noise"]
 +++
 
 I was watching an episode of PBS Eons on the evolution of land based plants and then angiosperms (flowering plants), and for whatever reason the question popped into my head

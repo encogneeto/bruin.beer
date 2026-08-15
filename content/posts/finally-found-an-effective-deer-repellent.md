@@ -2,6 +2,7 @@
 date = '2026-08-14T22:26:25-04:00'
 draft = false
 title = 'Finally found an effective deer repellent!'
+variety = ["noise"]
 +++
 
 This video gives me so much joy, I’ve probably watched it more times than any other video in my library. I hope you enjoy it as much as I do:

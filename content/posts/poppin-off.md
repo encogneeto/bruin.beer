@@ -2,6 +2,7 @@
 date = '2026-08-12T19:04:02-04:00'
 draft = false
 title = "Poppin' Off"
+variety = ["noise"]
 +++
 
 I’m amazed how our 2yo dwarf Crepe Myrtle is popping off this year 😍
