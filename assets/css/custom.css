@@ -1,0 +1,33 @@
+/* Beer typography */
+
+@font-face {
+  font-family: "IM Fell DW Pica SC";
+  src: url("/fonts/IMFellDWPicaSC-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+.main-menu > a.text-base.font-medium.truncate {
+  font-size: 2.0rem;
+  font-weight: 700;
+}
+
+/* IM Fell */
+
+#site-footer,
+.main-menu a,
+article.flex.flex-col.items-center.justify-center.text-center > header h1,
+.cables-nav,
+main > header h1,
+#single_header h1,
+.article-link--simple h2 {
+  font-family: "IM Fell DW Pica SC", serif;
+}
+
+
+/* Georgia */
+
+.article-link__summary,
+.article-content {
+  font-family: Georgia, "Times New Roman", serif;
+}
