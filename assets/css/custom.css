@@ -14,13 +14,13 @@
 
 /* IM Fell */
 
-#site-footer,
+footer,
 .main-menu a,
 article.flex.flex-col.items-center.justify-center.text-center > header h1,
 .cables-nav,
 main > header h1,
 #single_header h1,
-.article-link--simple h2 {
+h2 {
   font-family: "IM Fell DW Pica SC", serif;
 }
 
@@ -30,4 +30,38 @@ main > header h1,
 .article-link__summary,
 .article-content {
   font-family: Georgia, "Times New Roman", serif;
+}
+
+/* Homepage Hero Photo */
+.hero-photo {
+  width: 400px;
+  max-width: 90%;
+  margin: 2.5rem auto 3.5rem;
+  padding: 15px 15px 60px;
+  box-sizing: border-box;
+
+  background: #f4f0e8;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+
+  box-shadow:
+    0 18px 35px rgba(0, 0, 0, 0.22),
+    0 3px 8px rgba(0, 0, 0, 0.15);
+
+  transform: rotate(-1deg);
+}
+
+.hero-photo img {
+  display: block !important;
+  width: 100% !important;
+  height: auto !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+
+/* Mobile menu */
+[role="dialog"][aria-modal="true"] {
+  background-color: rgb(var(--color-neutral-200));
 }

@@ -1,7 +1,7 @@
 +++
 date = '2026-08-14T22:26:25-04:00'
 draft = false
-title = 'Finally found an effective deer repellent!'
+title = 'Effective deer repellent!'
 variety = ["noise"]
 +++
 
