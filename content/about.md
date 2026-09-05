@@ -1,6 +1,6 @@
 +++
 date = '2026-08-02T16:18:06-04:00'
-draft = true
+draft = false
 title = 'About'
 +++
 ### Evil Demons
