@@ -20,7 +20,7 @@ Here we are.
 
 ### More than just a homonymish
 
-I recently moved New Bern, North Carolina. You should know we have a bit of bear fetish around here. We were named after and a sister city to Bern Switzerland. The story goes, the founder of Bern, Switzerland said they would name the city after the first animal they encountered on a hunt which turned out to be a bear! Filtered through some fuzzy etymological hand waving 'Bern' means 'bear'. And to make the full connection '[bruin](https://m-w.com/dictionary/bruin)'also means 'bear'.
+I recently moved New Bern, North Carolina. You should know we have a bit of bear fetish around here. We were named after and a sister city to Bern Switzerland. The story goes, the founder of Bern, Switzerland said they would name the city after the first animal they encountered on a hunt which turned out to be a bear! Filtered through some fuzzy etymological hand waving 'Bern' means 'bear'. And to make the full connection '[bruin](https://m-w.com/dictionary/bruin)' also means 'bear'.
 
 ### Anyway...
 ...thats how I landed on **bruin.beer**. 
