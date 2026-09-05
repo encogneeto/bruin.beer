@@ -61,7 +61,7 @@ h2 {
   object-fit: cover;
 }
 
-/* Mobile menu */
+/* Mobile menu 
 [role="dialog"][aria-modal="true"] {
   background-color: rgb(var(--color-neutral-200));
-}
+}*/
