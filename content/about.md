@@ -1,37 +1,31 @@
 +++
 date = '2026-08-02T16:18:06-04:00'
-draft = false
+draft = true
 title = 'About'
 +++
-I needed a domain.\
+### Evil Demons
+
+I'd been thinking about getting into homebrewing again.
+
+I was looking around to see what was available in the area since I'd moved since I last brewed. Is the a local home brew shop? Are there any home brewing clubs?
+
+Yes, and Yes! But the homebrew club seemd to be exclusive to Facebook which I don't use.
+
+"Maybe I should start my own home brewing club", the evil demons in my head, who think I have unlimited time, unlimitied capability, adn unlimited patience, said.
+
+My club would need a domain.\
 This one seemed clever at the time.\
 It was cheap.\
 Here we are.
 
-I live in New Bern "Bear Town", North Carolina. I'd been contemplating restarting home 
-brewing; a hobby I'd abandoned on the doctors orders nearly a decade ago but have recently
-been cleared to start again. 
+### More than just a homonymish
 
-Anyway - thats how I landed on **bruin.beer**. My concepts of a plan are to post regular,
-low stakes updates on what I'm up to for anyone that's interested. 
+I recently moved New Bern, North Carolina. You should know we have a bit of bear fetish around here. We were named after and a sister city to Bern Switzerland. The story goes, the founder of Bern, Switzerland said they would name the city after the first animal they encountered on a hunt which turned out to be a bear! Filtered through some fuzzy etymological hand waving 'Bern' means 'bear'. And to make the full connection 'bruin' also means 'bear'.
 
-I'm a geek by profession. Somewhere around 20 years ago I forwent most geeky indulgences
-after hours. This project has been a (mostly) fun way of dipping my toes into being geeky
-in my free time. 
+### Anyway...
+...thats how I landed on **bruin.beer**. 
 
-Current areas of interest:
-* Gardening
-* Foraging
-* Hiking
-* Camping
-* Fishing
-* Home brewing
+So where are the details on the Home Bruin' club?\
+...did I mention the Evil Demons?...
 
-Several of these areas are waining due to proximity of good opportunities (hiking/camping/foraging)
-or incompetence (fishing) which is largely to blame(thank?) for the rekindled interest in 
-home brewing.
-
-You can find me:
-* mostly lurking on <a rel="me" href="https://mastodon.world/@ccunning">Mastodon</a>
-* posting pretty regularly on [lemmy.world](https://lemmy.world/u/ccunning)
-* ...and basically not using  [pixelfed.social](https://pixelfed.social/@ccunning) almost ever
+*P.S. - If you want to know who has the REAL bear fetish, just compare Bern's Coat of Arms to New Bern's*

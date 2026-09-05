@@ -1,5 +1,0 @@
-+++
-title = "Noise"
-+++
-
-{{< cables-nav >}}

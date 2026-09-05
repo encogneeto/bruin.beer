@@ -1,5 +1,0 @@
-+++
-title = "Signal"
-+++
-
-{{< cables-nav >}}
