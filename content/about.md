@@ -11,7 +11,7 @@ I was looking around to see what was available in the area; I'd moved since I la
 
 Yes, and Yes! But the homebrew club seemd to be exclusive to Facebook which I don't use.
 
-"Maybe I should start my own home brewing club", the evil demons in my head, who think I have unlimited time, unlimitied capability, adn unlimited patience, said.
+"Maybe I should start my own home brewing club", the evil demons in my head, who think I have unlimited time, unlimitied capability, and unlimited patience, said.
 
 My club would need a domain.\
 This one seemed clever at the time.\
